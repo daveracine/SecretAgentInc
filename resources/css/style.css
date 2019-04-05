@@ -1,0 +1,8 @@
+* {
+  background-color: grey;
+  color: white;
+}
+
+header span {
+  text-transform: uppercase;
+}
